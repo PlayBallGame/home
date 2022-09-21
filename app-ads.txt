@@ -1,5 +1,7 @@
 google.com, pub-8111924961621642, DIRECT, f08c47fec0942fa0
 applovin.com, bd55124f2d06dac8d3eeb8302d6e8247, DIRECT
+pangleglobal.com, 5000099, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 chartboost.com, 61ac1737db0ba707b5c49cad, DIRECT
 inmobi.com, f3924290136e4129a5c082ff982c3a58, RESELLER, 83e75a7ae333ca9d
 inmobi.com, c1e6d3502da64ebaa3ad0e4a4be15f11, RESELLER, 83e75a7ae333ca9d
